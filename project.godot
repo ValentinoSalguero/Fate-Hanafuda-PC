@@ -13,3 +13,8 @@ config_version=5
 config/name="Fate Hanafuda"
 run/main_scene="res://Scenes/MainMenu.tscn"
 config/features=PackedStringArray("4.3")
+
+[display]
+
+window/size/viewport_width=800
+window/size/viewport_height=600
